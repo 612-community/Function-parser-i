@@ -1,2 +1,2 @@
-# Function-parser-i
+# Function parser i
 A simple function parser.
